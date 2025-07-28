@@ -1,16 +1,19 @@
-# 🔧 Chai aur Deploy Backend
-A backend practice repository focused on deploying Node.js + Express APIs with proper production practices.
 
-## 🚀 What I Practiced
-- Express server setup from scratch
+# Connection Backend and Frontend
 
-- Environment variables with .env
+This repo is a practice ground for connecting a backend (Node/Express) with a React frontend.
 
-- Nodemon for dev, npm start for production
+## 🤹 What’s Inside
+- Localhost-based communication between frontend and backend
 
-- Deployment-ready folder and script structure
+- Understanding CORS and JSON communication
 
-- First-time deployment using platforms like Render or Railway
+- Building simple fullstack workflows (React → Express → DB)
 
-### Use Case
-- This repo is part of my learning journey toward understanding how backend services are deployed and configured in real-world environments.
+- Handling POST/GET routes with Axios from the frontend
+
+
+### 🧠 Why This Repo Exists
+
+- To learn how to bridge the gap between frontend and backend. This is where I figured out how data flows in real web apps.
+
